@@ -1,2 +1,2 @@
 # Image_Processing
-Image Processing Practice Personal
+Image Processing Personal Practice
